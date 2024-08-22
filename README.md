@@ -2,7 +2,7 @@
 ### Olá! Eu sou o Gustavo Zanardi 👋
 
 ![ Zanardi's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoZanardi15&show_icons=true&theme=darcula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 
 ## Tecnologias que utilizo no meu dia a dia.
