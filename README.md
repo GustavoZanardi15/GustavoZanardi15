@@ -1,5 +1,5 @@
 
-### Olá! Eu sou o Gustavo Zanardi 👋 🇧🇷
+### Olá! Eu sou o Gustavo Zanardi 👋
 
 ![ Zanardi's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoZanardi15&show_icons=true&theme=radical)
 
