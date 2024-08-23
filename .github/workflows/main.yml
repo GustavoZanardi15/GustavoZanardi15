@@ -12,7 +12,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2.5.0
 
-      - uses: Platane/snk@master
+      - uses: Platane/snk@v1.1.0  # Use uma versão específica
         id: snake-gif
         with:
           github_user_name: GustavoZanardi15
@@ -25,7 +25,7 @@ jobs:
         run: ls dist
 
       - name: Push changes to output branch
-        uses: ad-m/github-push-action@master
+        uses: ad-m/github-push-action@v0.6.0  # Use uma versão específica
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: output
@@ -34,5 +34,8 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
+
+      - name: List files in dist
+        run: ls -la dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
