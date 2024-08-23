@@ -1,9 +1,11 @@
 
 ### Olá! Eu sou o Gustavo Zanardi 👋
 
-![ Zanardi's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoZanardi15&show_icons=true&theme=darcula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoZanardi15&show_icons=true&theme=darcula)
-
+<div>
+    <a href="https://github.com/GustavoZanardi15">
+    <img height="180cm" src="https://![ Zanardi's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoZanardi15&show_icons=true&theme=darcula)"/>
+    <img height="180cm" src="https://![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoZanardi15&show_icons=true&theme=darcula)"/>
+</div>
 
 ## Tecnologias que estou aprendendo no momento.
 
