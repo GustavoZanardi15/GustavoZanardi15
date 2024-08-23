@@ -23,7 +23,7 @@ Tecnologias que estou aprendendo no momento.
 
 ##
 
- ![Snake animation](https://github.com/ThiagoBussola/ThiagoBussola/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/GustavoZanardi15/GustavoZanardi15/blob/output/github-contribution-grid-snake.svg)
 
 
 
