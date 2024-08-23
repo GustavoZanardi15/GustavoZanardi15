@@ -25,4 +25,4 @@ Tecnologias que estou aprendendo no momento.
 ![Snake animation](https://github.com/GustavoZanardi15/GustavoZanardi15/blob/output/github-contribution-grid-snake.svg).
 
 
-
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=GustavoZanardi15&repo=GustavoZanardi15&theme=react)](https://github.com/GustavoZanardi15/GustavoZanardi15)
