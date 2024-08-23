@@ -4,6 +4,7 @@
     <a href="https://github.com/GustavoZanardi15">
     <img height="180cm" align="center" src="https://github-readme-stats.vercel.app/api?username=GustavoZanardi15&show_icons=true&theme=darcula&include_all_comits=true&count_private=true"/>
     <img height="180cm" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoZanardi15&layout=compact&langs_count=16&theme=darcula"/>
+    </a> 
 </div>
         
 ##
@@ -22,7 +23,8 @@ Tecnologias que estou aprendendo no momento.
 
 ##
 
-![Snake animation](https://github.com/GustavoZanardi15/GustavoZanardi15/blob/output/github-contribution-grid-snake.svg).
+![Snake animation](https://github.com/GustavoZanardi15/GustavoZanardi15/raw/output/github-contribution-grid-snake.svg)
+
 
 
 [![readme](https://github-readme-stats.vercel.app/api/pin/?username=GustavoZanardi15&repo=GustavoZanardi15&theme=react)](https://github.com/GustavoZanardi15/GustavoZanardi15)
