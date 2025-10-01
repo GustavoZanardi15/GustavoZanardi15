@@ -6,10 +6,10 @@
 <h2 align="center"> Minhas Estatísticas no GitHub</h2>
 
 <p align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=GustavoZanardi15&show_icons=true&theme=darcula&include_all_comits=true&count_private=true&layout=compact"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoZanardi15&layout=compact&langs_count=16&theme=darcula&hide_title=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoZanardi15&show_icons=true&theme=nord&include_all_comits=true&count_private=true&layout=compact"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoZanardi15&layout=compact&langs_count=16&theme=nord&hide_title=true"/>
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GustavoZanardi15&theme=darcula" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GustavoZanardi15&theme=nord" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -30,5 +30,4 @@
 
 <p align="center">
   <img src="https://github.com/GustavoZanardi15/GustavoZanardi15/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-  <br>
 </p>
