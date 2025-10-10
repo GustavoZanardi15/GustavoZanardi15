@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Olá! Eu sou o Gustavo Zanardi 👋</h1>
+  <h1>Olá! Eu sou o Gustavo Zanardi</h1>
   <p>Entusiasta de desenvolvimento web, focado em criar interfaces modernas com React e Tailwind CSS!</p>
 </div>
 
